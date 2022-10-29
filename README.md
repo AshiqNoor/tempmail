@@ -36,19 +36,19 @@ TempMail is a mobile application. Here, you can create unlimited temporary email
 
 ◉ Registration Screen<br>
 
-◉ More than 1.1M free photos<br>
+◉ Login Screen<br>
 
-◉ Full screen Wallpapers<br>
+◉ Home screen<br>
 
-◉ Search images<br>
+◉ Drawer for Profile<br>
 
-◉ Easy to use, and a comfortable user experience<br>
+◉ Receive messages<br>
 
-◉ Add the wallpapers you like to the "Favorite Section" in order to see them whenever you like<br>
+◉ Message Details Page<br>
 
-◉ Download wallpapers to check them offline<br>
+◉ Unseen and deleate feature in more vert icon<br>
 
-◉ Fast loading<br>
+◉ Cashing for log out<br>
 
 </p>
 

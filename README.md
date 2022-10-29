@@ -83,47 +83,27 @@ Note: It's an open-source project. Anyone can use this code according to the [MI
 
   
 
-// For using Home Screen, Lock Screen and Both Screen mode<br>
 
-[flutter_wallpaper_manager: ^0.0.3](https://pub.dev/packages/flutter_wallpaper_manager)<br>
 
-// For custom grid view<br>
+// For using cashing login data<br>
 
-[flutter_staggered_grid_view: ^0.6.1](https://pub.dev/packages/flutter_staggered_grid_view)<br>
-
-// For displaying google Ads<br>
-
-[google_mobile_ads: ^1.2.0](https://pub.dev/packages/google_mobile_ads)<br>
-
-// For sharing image to other devices<br>
-
-[share_plus: ^4.0.4](https://pub.dev/packages/share_plus)<br>
-
-// For using Bottom Navigation bar<br>
-
-[google_nav_bar: ^5.0.6](https://pub.dev/packages?q=google_nav_bar)<br>
-
-// For using cashing wallpaper data<br>
-
-[hive_flutter: ^1.1.0](https://pub.dev/packages/hive_flutter)<br>
-
-// For custom loading indicator<br>
-
-[loading_indicator: ^3.0.3](https://pub.dev/packages/loading_indicator)<br>
+[shared_preferences: ^2.0.15](https://pub.dev/packages/shared_preferences)<br>
 
 // For State management<br>
 
-[get: ^4.6.1](https://pub.dev/packages/get)<br>
+[get: ^4.6.5](https://pub.dev/packages/get)<br>
 
-// For internet connectivity<br>
+// For vector and raster Images<br>
 
-[connectivity_plus: ^2.3.0](https://pub.dev/packages/connectivity_plus)
+[flutter_svg: any](https://pub.dev/packages/flutter_svg)
 
 // For making http requests<br>
 
 [http: ^0.13.4](https://pub.dev/packages/http)<br>
 
-  
+// For converting date and time<br>
+
+[intl: any](https://pub.dev/packages/intl)<br>
   
 
 # Installation
@@ -138,13 +118,13 @@ Note: It's an open-source project. Anyone can use this code according to the [MI
 
 ```
 
-$ git clone https://github.com/AshiqNoor/dazzle.git
+$ git clone https://github.com/AshiqNoor/tempmail.git
 
 ```
 
   
 
-◉ Open the 'dazzle' folder using your Android Studio or VSCode.
+◉ Open the 'tempmail' folder using your Android Studio or VSCode.
 
 ◉ Use this commands in your Android Studio / VSCode terminal:
 
@@ -164,7 +144,7 @@ $ flutter run
 
   
 
-If you have any feedback, please reach out to me at ashiq.annoor0@gmail.com
+If you have any feedback, please reach out to me at ashiq440@gmail.com
 
   
   

@@ -32,7 +32,7 @@ TempMail is a mobile application. Here, you can create unlimited temporary email
 
   
 
-◉ Create a new account by using this @spacehotline.com domain names at the end.<br>
+◉ Create a new account by selecting domain names.<br>
 
 ◉ Registration Screen<br>
 
@@ -48,7 +48,7 @@ TempMail is a mobile application. Here, you can create unlimited temporary email
 
 ◉ Unseen and deleate feature in more vert icon<br>
 
-◉ Cashing for log out<br>
+◉ Cashing for log in<br>
 
 </p>
 
@@ -58,19 +58,19 @@ TempMail is a mobile application. Here, you can create unlimited temporary email
 
   
 
-you can download the apk from google drive [TempMail](https://drive.google.com/file/d/1mZXkIBDX_5Z5jJI_BC_DMOwcgRFJvDwN/view?usp=share_link)
+You can download the apk from google drive [TempMail v1.0.0](https://drive.google.com/file/d/1mZXkIBDX_5Z5jJI_BC_DMOwcgRFJvDwN/view?usp=share_link), update [TempMail v1.0.1](https://drive.google.com/file/d/1wUBFFxM0G1jMp4RJzS0XK9YIv2hXmXGE/view?usp=share_link)
 
 <p align="left">
-  <img src="log/register.jpg" height="400"><img src="log/login.jpg" height="400"><img src="log/home.jpg" height="400">
+  <img src="log/register.jpg" height="400"> <img src="log/login.jpg" height="400"> <img src="log/home.jpg" height="400">
 </p>
 <p align="left">
-  <img src="log/profile.jpg" height="400"><img src="log/inbox.jpg" height="400"><img src="log/openmessage.jpg" height="400">
+  <img src="log/profile.jpg" height="400"> <img src="log/inbox.jpg" height="400"> <img src="log/openmessage.jpg" height="400">
 </p>
 <p align="left">
-  <img src="log/messagedetails.jpg" height="400"><img src="log/feature.jpg" height="400"><img src="log/unseen.jpg" height="400">
+  <img src="log/messagedetails.jpg" height="400"> <img src="log/feature.jpg" height="400"> <img src="log/unseen.jpg" height="400">
 </p>
 <p align="left">
-  <img src="log/unseen1.jpg" height="400"><img src="log/deleted.jpg" height="400">
+  <img src="log/unseen1.jpg" height="400"> <img src="log/deleted.jpg" height="400">
 </p>
 
 

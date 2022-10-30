@@ -1,5 +1,6 @@
 library home;
 
+import 'dart:async';
 import 'dart:convert';
 import 'package:tempmail/app/config/routes/routes_library.dart';
 import 'package:tempmail/app/constants/constants_library.dart';

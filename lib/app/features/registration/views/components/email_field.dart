@@ -14,6 +14,7 @@ class _EmailField extends GetView<RegistrationController> {
         return null;
       },
       decoration: const InputDecoration(
+          suffixIcon: Dropdown(),
           prefixIcon: Icon(
             Icons.email,
             color: Colors.grey,

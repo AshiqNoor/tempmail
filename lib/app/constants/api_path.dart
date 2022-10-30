@@ -10,4 +10,5 @@ class ApiPath {
   static const message = "$_baseUrl/messages/";
   static const seen = "$_baseUrl/messages/";
   static const delete = "$_baseUrl/messages/";
+  static const domain = "$_baseUrl/domains";
 }

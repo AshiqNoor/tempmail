@@ -11,7 +11,7 @@ class HomeController extends GetxController {
   @override
   void onInit() {
     getmessages();
-
+    getuserprofile();
     super.onInit();
   }
 

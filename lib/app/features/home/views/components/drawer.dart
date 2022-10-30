@@ -5,7 +5,6 @@ class _Drawer extends GetView<HomeController> {
 
   @override
   Widget build(BuildContext context) {
-    controller.getuserprofile();
     return Drawer(
         child: ListView(
       // Important: Remove any padding from the ListView.
@@ -52,6 +51,7 @@ class _Drawer extends GetView<HomeController> {
                 fontSize: 20,
               )),
           onTap: () {
+            controller.getmessages();
             Get.back();
           },
         ),

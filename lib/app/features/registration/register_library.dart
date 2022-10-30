@@ -7,6 +7,7 @@ import 'package:get/get.dart';
 import 'package:tempmail/app/config/routes/routes_library.dart';
 import 'package:tempmail/app/constants/constants_library.dart';
 import 'package:http/http.dart' as http;
+import 'package:tempmail/app/features/login/log_in_library.dart';
 import 'package:tempmail/app/utils/services/service_library.dart';
 
 part '../registration/views/screens/registration_screen.dart';
@@ -14,6 +15,7 @@ part '../registration/views/components/confirm_password_field.dart';
 part '../registration/views/components/email_field.dart';
 part '../registration/views/components/header_text.dart';
 part '../registration/views/components/illustration_image.dart';
+part '../registration/views/components/dropdown.dart';
 part '../registration/views/components/login_button.dart';
 part '../registration/views/components/password_field.dart';
 part '../registration/views/components/register_button.dart';
